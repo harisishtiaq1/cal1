@@ -1,0 +1,192 @@
+.insta{
+  height:100px;
+  max-width:140px;
+  width: 100%;
+}
+p,h1{
+  margin: 0;
+}
+.width{
+  height:100px;
+  width:100px;
+}
+.mar{
+  margin-top: 38px;
+  margin-left: 10px;
+}
+.state{
+  margin-top: 39px;
+  margin-left: 14px;
+  font-size: 20px;
+}
+.state1{
+  margin-left: 8px;
+  font-size: 20px;
+}
+.message{
+  height:30px;
+  width:30px;
+  margin-top: 2rem;
+}
+.left{
+  margin-left: 20px;
+}
+.profile img{
+  height:60px;
+  width:60px;
+  border:2px solid;
+  border-radius: 50%;
+  border-color:lightcoral;
+}
+.profile2 img{
+  height:60px;
+  width:60px;
+  border:2px solid;
+  border-radius: 50%;
+  border-color:lightcoral;
+  margin-top:30px;
+}
+.profile3 img{
+  height:30px;
+  width:30px;
+  border:2px solid;
+  border-radius: 50%;
+  border-color:lightcoral;
+  
+}
+.profile1 img{
+  height:150px;
+  width:150px;
+  border:2px solid;
+  border-radius: 50%;
+  border-color:lightcoral;
+}
+.height{
+  height: 500px;
+}
+.margin-left{
+  margin-left: 20px;
+}
+.left{
+  margin-left:10px;
+}
+.postImage{
+  height:400px;
+  width:800px;
+}
+.like{
+  height:30px;
+  width:30px;
+  margin-top: 1rem;
+}
+.icon{
+  font-size: 20px;
+}
+.icon1{
+  font-size: 20px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.clr{
+  color: blue;
+}
+.icon2{
+  font-size: 30px;
+  margin-left: 10px;
+}
+.icon3{
+  font-size: 30px;
+  margin-left: 100px;
+}
+.top{
+  margin-top: -34px;
+}
+.evenly{
+  display: flex;
+  justify-content: space-between;
+}
+.tp{
+  margin-top: 20px;
+}
+.btn{
+  padding: 10px 40px;
+  background-color: blue;
+  color: white;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.btn:hover{
+  background-color: red;
+  color: black;
+  font-weight: bold;
+  padding: 10px 50px;
+  transition: 0.5sec;
+}
+.posts{
+  margin-top:10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.posts img{
+  max-width: 200px;
+  height: 200px;
+  width:100%;
+  margin: 3px;
+}
+.point{
+  cursor: pointer;
+}
+.wid{
+  width:75%;
+  margin-left: 3rem;
+
+}
+
+input[type=text] {
+  border: 2px solid red;
+  width: 500px;
+  padding: 10px 20px;
+  border-radius: 2px;
+
+}
+.ptr{
+  padding: 12px 20px;
+  background-color: red;
+  border-radius: 2px;
+  border: none;
+  color: white;
+}
+.white{
+  color: white;
+}
+.left1{
+  margin-left: 100px;
+}
+.recieveMessage{
+  text-align: center;
+  width:50%;
+  height: 50px;
+  background-color: black;
+  color:white;
+  border-radius: 10px;
+  border:1px solid black;
+  margin: 3px;
+
+}
+.sendMessage{
+  text-align: center;
+  width:50%;
+  height: 50px;
+  margin-left: 40%;
+  background-color: blue;
+  color:white;
+  border:1px solid wheat;
+  border-radius: 10px;
+}
+.padd{
+  padding: 12px 20px;
+  color: white;
+  background-color: red;
+  border-radius: 5px;
+  border: none;
+}

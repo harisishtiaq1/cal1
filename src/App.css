@@ -1,0 +1,27 @@
+.container{
+  width:800px;
+}
+p,h1,h3{
+  margin: 0;
+}
+.set{
+  margin-top: 10px;
+}
+.set img{
+max-width: 800px;
+width: 100%;
+height: 300px;
+}
+.flex{
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+.mar{
+  margin-bottom: 0;
+}
+.widt img{
+  width:250px;
+  border: 1px solid black;
+  height: 250px;
+}
